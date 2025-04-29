@@ -15,3 +15,8 @@ What This Project Does
 - Offers a simple web interface for uploading images.
 - Also supports batch processing of multiple images from a folder.
 - Automatically removes temporary uploaded files after processing.
+
+
+In app deployment link there is some error but it running perfectly on my local host 
+Proof: 
+<img width="1800" alt="Screenshot 2025-04-29 at 13 13 40" src="https://github.com/user-attachments/assets/06e8bb54-0f91-4c40-b4dd-05ca405c0f37" />
