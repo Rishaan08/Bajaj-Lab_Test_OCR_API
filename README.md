@@ -15,5 +15,3 @@ What This Project Does
 - Offers a simple web interface for uploading images.
 - Also supports batch processing of multiple images from a folder.
 - Automatically removes temporary uploaded files after processing.
-
-
