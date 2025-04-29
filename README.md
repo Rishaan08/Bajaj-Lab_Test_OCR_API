@@ -1,3 +1,4 @@
+# Bajaj - Lab Test OCR API
 This project provides an OCR-based web API that extracts structured lab test data from images of medical lab reports. It uses FastAPI for the backend and Tesseract OCR for text recognition.
 
 What This Project Does
